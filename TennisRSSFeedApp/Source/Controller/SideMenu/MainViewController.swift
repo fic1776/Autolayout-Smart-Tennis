@@ -52,5 +52,16 @@ class MainViewController: UIViewController{
         let musicVC = self.storyboard?.instantiateViewController(withIdentifier: "ShopViewController")
         self.navigationController?.pushViewController(musicVC!, animated: true)
     }
+    
+    @IBAction func onClickReminderButton(_sender: AnyObject){
+        let reminderController = self.storyboard? .instantiateViewController(withIdentifier: "ReminderViewController") as! ReminderViewController
+        self.navigationController? .pushViewController(reminderController, animated: true)
+        
+    }
+    
+    @IBAction func onClickSleepButton(_sender: UIButton){
+        let sleepController = self.storyboard?.instantiateViewController(withIdentifier: "SleepViewController") as! SleepViewController
+        self.navigationController? .pushViewController(sleepController, animated: true)
+    }
 }
 

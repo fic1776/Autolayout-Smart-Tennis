@@ -144,6 +144,32 @@
 		844ACCEC1DB762E600DC52EF /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 844ACCE91DB762E600DC52EF /* Default.png */; };
 		844ACCED1DB762E600DC52EF /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 844ACCEA1DB762E600DC52EF /* Default-568h@2x.png */; };
 		844ACCEE1DB762E600DC52EF /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 844ACCEB1DB762E600DC52EF /* Default@2x.png */; };
+		CE3D61111DEEF35C0097DC19 /* License Agreement for SF UI Font.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D60FB1DEEF35C0097DC19 /* License Agreement for SF UI Font.pdf */; };
+		CE3D61121DEEF35C0097DC19 /* SF-UI-Display-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D60FC1DEEF35C0097DC19 /* SF-UI-Display-Black.otf */; };
+		CE3D61131DEEF35C0097DC19 /* SF-UI-Display-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D60FD1DEEF35C0097DC19 /* SF-UI-Display-Bold.otf */; };
+		CE3D61141DEEF35C0097DC19 /* SF-UI-Display-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D60FE1DEEF35C0097DC19 /* SF-UI-Display-Heavy.otf */; };
+		CE3D61151DEEF35C0097DC19 /* SF-UI-Display-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D60FF1DEEF35C0097DC19 /* SF-UI-Display-Light.otf */; };
+		CE3D61161DEEF35C0097DC19 /* SF-UI-Display-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D61001DEEF35C0097DC19 /* SF-UI-Display-Medium.otf */; };
+		CE3D61171DEEF35C0097DC19 /* SF-UI-Display-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D61011DEEF35C0097DC19 /* SF-UI-Display-Regular.otf */; };
+		CE3D61181DEEF35C0097DC19 /* SF-UI-Display-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D61021DEEF35C0097DC19 /* SF-UI-Display-Semibold.otf */; };
+		CE3D61191DEEF35C0097DC19 /* SF-UI-Display-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D61031DEEF35C0097DC19 /* SF-UI-Display-Thin.otf */; };
+		CE3D611A1DEEF35C0097DC19 /* SF-UI-Display-Ultralight.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D61041DEEF35C0097DC19 /* SF-UI-Display-Ultralight.otf */; };
+		CE3D611B1DEEF35C0097DC19 /* SF-UI-Text-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D61051DEEF35C0097DC19 /* SF-UI-Text-Bold.otf */; };
+		CE3D611C1DEEF35C0097DC19 /* SF-UI-Text-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D61061DEEF35C0097DC19 /* SF-UI-Text-BoldItalic.otf */; };
+		CE3D611D1DEEF35C0097DC19 /* SF-UI-Text-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D61071DEEF35C0097DC19 /* SF-UI-Text-Heavy.otf */; };
+		CE3D611E1DEEF35C0097DC19 /* SF-UI-Text-HeavyItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D61081DEEF35C0097DC19 /* SF-UI-Text-HeavyItalic.otf */; };
+		CE3D611F1DEEF35C0097DC19 /* SF-UI-Text-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D61091DEEF35C0097DC19 /* SF-UI-Text-Light.otf */; };
+		CE3D61201DEEF35C0097DC19 /* SF-UI-Text-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D610A1DEEF35C0097DC19 /* SF-UI-Text-LightItalic.otf */; };
+		CE3D61211DEEF35C0097DC19 /* SF-UI-Text-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D610B1DEEF35C0097DC19 /* SF-UI-Text-Medium.otf */; };
+		CE3D61221DEEF35C0097DC19 /* SF-UI-Text-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D610C1DEEF35C0097DC19 /* SF-UI-Text-MediumItalic.otf */; };
+		CE3D61231DEEF35C0097DC19 /* SF-UI-Text-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D610D1DEEF35C0097DC19 /* SF-UI-Text-Regular.otf */; };
+		CE3D61241DEEF35C0097DC19 /* SF-UI-Text-RegularItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D610E1DEEF35C0097DC19 /* SF-UI-Text-RegularItalic.otf */; };
+		CE3D61251DEEF35C0097DC19 /* SF-UI-Text-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D610F1DEEF35C0097DC19 /* SF-UI-Text-Semibold.otf */; };
+		CE3D61261DEEF35C0097DC19 /* SF-UI-Text-SemiboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE3D61101DEEF35C0097DC19 /* SF-UI-Text-SemiboldItalic.otf */; };
+		CE3D612B1DEEF4410097DC19 /* ReminderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3D61271DEEF4410097DC19 /* ReminderTableViewCell.swift */; };
+		CE3D612C1DEEF4410097DC19 /* ReminderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3D61281DEEF4410097DC19 /* ReminderViewController.swift */; };
+		CE3D612D1DEEF4410097DC19 /* SleepTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3D61291DEEF4410097DC19 /* SleepTableViewCell.swift */; };
+		CE3D612E1DEEF4410097DC19 /* SleepViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3D612A1DEEF4410097DC19 /* SleepViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -303,6 +329,32 @@
 		844ACCE91DB762E600DC52EF /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		844ACCEA1DB762E600DC52EF /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		844ACCEB1DB762E600DC52EF /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		CE3D60FB1DEEF35C0097DC19 /* License Agreement for SF UI Font.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "License Agreement for SF UI Font.pdf"; sourceTree = "<group>"; };
+		CE3D60FC1DEEF35C0097DC19 /* SF-UI-Display-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Black.otf"; sourceTree = "<group>"; };
+		CE3D60FD1DEEF35C0097DC19 /* SF-UI-Display-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Bold.otf"; sourceTree = "<group>"; };
+		CE3D60FE1DEEF35C0097DC19 /* SF-UI-Display-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Heavy.otf"; sourceTree = "<group>"; };
+		CE3D60FF1DEEF35C0097DC19 /* SF-UI-Display-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Light.otf"; sourceTree = "<group>"; };
+		CE3D61001DEEF35C0097DC19 /* SF-UI-Display-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Medium.otf"; sourceTree = "<group>"; };
+		CE3D61011DEEF35C0097DC19 /* SF-UI-Display-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Regular.otf"; sourceTree = "<group>"; };
+		CE3D61021DEEF35C0097DC19 /* SF-UI-Display-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Semibold.otf"; sourceTree = "<group>"; };
+		CE3D61031DEEF35C0097DC19 /* SF-UI-Display-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Thin.otf"; sourceTree = "<group>"; };
+		CE3D61041DEEF35C0097DC19 /* SF-UI-Display-Ultralight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Ultralight.otf"; sourceTree = "<group>"; };
+		CE3D61051DEEF35C0097DC19 /* SF-UI-Text-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Bold.otf"; sourceTree = "<group>"; };
+		CE3D61061DEEF35C0097DC19 /* SF-UI-Text-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-BoldItalic.otf"; sourceTree = "<group>"; };
+		CE3D61071DEEF35C0097DC19 /* SF-UI-Text-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Heavy.otf"; sourceTree = "<group>"; };
+		CE3D61081DEEF35C0097DC19 /* SF-UI-Text-HeavyItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-HeavyItalic.otf"; sourceTree = "<group>"; };
+		CE3D61091DEEF35C0097DC19 /* SF-UI-Text-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Light.otf"; sourceTree = "<group>"; };
+		CE3D610A1DEEF35C0097DC19 /* SF-UI-Text-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-LightItalic.otf"; sourceTree = "<group>"; };
+		CE3D610B1DEEF35C0097DC19 /* SF-UI-Text-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Medium.otf"; sourceTree = "<group>"; };
+		CE3D610C1DEEF35C0097DC19 /* SF-UI-Text-MediumItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-MediumItalic.otf"; sourceTree = "<group>"; };
+		CE3D610D1DEEF35C0097DC19 /* SF-UI-Text-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Regular.otf"; sourceTree = "<group>"; };
+		CE3D610E1DEEF35C0097DC19 /* SF-UI-Text-RegularItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-RegularItalic.otf"; sourceTree = "<group>"; };
+		CE3D610F1DEEF35C0097DC19 /* SF-UI-Text-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Semibold.otf"; sourceTree = "<group>"; };
+		CE3D61101DEEF35C0097DC19 /* SF-UI-Text-SemiboldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-SemiboldItalic.otf"; sourceTree = "<group>"; };
+		CE3D61271DEEF4410097DC19 /* ReminderTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReminderTableViewCell.swift; sourceTree = "<group>"; };
+		CE3D61281DEEF4410097DC19 /* ReminderViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReminderViewController.swift; sourceTree = "<group>"; };
+		CE3D61291DEEF4410097DC19 /* SleepTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SleepTableViewCell.swift; sourceTree = "<group>"; };
+		CE3D612A1DEEF4410097DC19 /* SleepViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SleepViewController.swift; sourceTree = "<group>"; };
 		CF7A761C15C731DE3E974F9E /* Pods_TennisRSSFeedApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TennisRSSFeedApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA6A1CE6BA000BA50A112280 /* Pods-TennisRSSFeedApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TennisRSSFeedApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-TennisRSSFeedApp/Pods-TennisRSSFeedApp.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -567,6 +619,10 @@
 				0622F2EC1DE4111B00A0A315 /* TennisfeedViewController.swift */,
 				0622F2ED1DE4111B00A0A315 /* ViewController.swift */,
 				046A32791DE9BBAE00B86C77 /* InitialViewController.swift */,
+				CE3D61271DEEF4410097DC19 /* ReminderTableViewCell.swift */,
+				CE3D61281DEEF4410097DC19 /* ReminderViewController.swift */,
+				CE3D61291DEEF4410097DC19 /* SleepTableViewCell.swift */,
+				CE3D612A1DEEF4410097DC19 /* SleepViewController.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -727,12 +783,42 @@
 		844ACCE81DB762D400DC52EF /* Support */ = {
 			isa = PBXGroup;
 			children = (
+				CE3D60FA1DEEF3030097DC19 /* Fonts */,
 				844ACCE91DB762E600DC52EF /* Default.png */,
 				844ACCEA1DB762E600DC52EF /* Default-568h@2x.png */,
 				0400B40F1DEB959B00FD3819 /* Default-667h@2x.png */,
 				844ACCEB1DB762E600DC52EF /* Default@2x.png */,
 			);
 			name = Support;
+			sourceTree = "<group>";
+		};
+		CE3D60FA1DEEF3030097DC19 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				CE3D60FB1DEEF35C0097DC19 /* License Agreement for SF UI Font.pdf */,
+				CE3D60FC1DEEF35C0097DC19 /* SF-UI-Display-Black.otf */,
+				CE3D60FD1DEEF35C0097DC19 /* SF-UI-Display-Bold.otf */,
+				CE3D60FE1DEEF35C0097DC19 /* SF-UI-Display-Heavy.otf */,
+				CE3D60FF1DEEF35C0097DC19 /* SF-UI-Display-Light.otf */,
+				CE3D61001DEEF35C0097DC19 /* SF-UI-Display-Medium.otf */,
+				CE3D61011DEEF35C0097DC19 /* SF-UI-Display-Regular.otf */,
+				CE3D61021DEEF35C0097DC19 /* SF-UI-Display-Semibold.otf */,
+				CE3D61031DEEF35C0097DC19 /* SF-UI-Display-Thin.otf */,
+				CE3D61041DEEF35C0097DC19 /* SF-UI-Display-Ultralight.otf */,
+				CE3D61051DEEF35C0097DC19 /* SF-UI-Text-Bold.otf */,
+				CE3D61061DEEF35C0097DC19 /* SF-UI-Text-BoldItalic.otf */,
+				CE3D61071DEEF35C0097DC19 /* SF-UI-Text-Heavy.otf */,
+				CE3D61081DEEF35C0097DC19 /* SF-UI-Text-HeavyItalic.otf */,
+				CE3D61091DEEF35C0097DC19 /* SF-UI-Text-Light.otf */,
+				CE3D610A1DEEF35C0097DC19 /* SF-UI-Text-LightItalic.otf */,
+				CE3D610B1DEEF35C0097DC19 /* SF-UI-Text-Medium.otf */,
+				CE3D610C1DEEF35C0097DC19 /* SF-UI-Text-MediumItalic.otf */,
+				CE3D610D1DEEF35C0097DC19 /* SF-UI-Text-Regular.otf */,
+				CE3D610E1DEEF35C0097DC19 /* SF-UI-Text-RegularItalic.otf */,
+				CE3D610F1DEEF35C0097DC19 /* SF-UI-Text-Semibold.otf */,
+				CE3D61101DEEF35C0097DC19 /* SF-UI-Text-SemiboldItalic.otf */,
+			);
+			name = Fonts;
 			sourceTree = "<group>";
 		};
 		D56C6D79E3933E99E252B43E /* Pods */ = {
@@ -828,18 +914,27 @@
 				0622F3231DE4111B00A0A315 /* 3.mp3 in Resources */,
 				041195B51DEE2694008B6549 /* Improving Lung Capacity.mp3 in Resources */,
 				0622F3051DE4111B00A0A315 /* ImgSideBackground.png in Resources */,
+				CE3D61111DEEF35C0097DC19 /* License Agreement for SF UI Font.pdf in Resources */,
 				041195B21DEE2694008B6549 /* Excel in sport (1).mp3 in Resources */,
 				0622F3271DE4111B00A0A315 /* sharBtn.png in Resources */,
+				CE3D611B1DEEF35C0097DC19 /* SF-UI-Text-Bold.otf in Resources */,
 				041195AF1DEE2694008B6549 /* Be a Winner.mp3 in Resources */,
 				0622F3171DE4111B00A0A315 /* ImgIconSleep.png in Resources */,
+				CE3D61181DEEF35C0097DC19 /* SF-UI-Display-Semibold.otf in Resources */,
 				0622F30B1DE4111B00A0A315 /* ImgTennisballW.png in Resources */,
+				CE3D61131DEEF35C0097DC19 /* SF-UI-Display-Bold.otf in Resources */,
 				0622F3AC1DE6446C00A0A315 /* icon_setting.png in Resources */,
 				0622F2FE1DE4111B00A0A315 /* Imgmenubutton.png in Resources */,
 				844ACCE11DB7628000DC52EF /* LaunchScreen.storyboard in Resources */,
 				0622F3251DE4111B00A0A315 /* playlistBtn.png in Resources */,
+				CE3D61221DEEF35C0097DC19 /* SF-UI-Text-MediumItalic.otf in Resources */,
 				0622F3121DE4111B00A0A315 /* ImgIconMusic.png in Resources */,
+				CE3D61141DEEF35C0097DC19 /* SF-UI-Display-Heavy.otf in Resources */,
 				0622F3191DE4111B00A0A315 /* menu.png in Resources */,
 				0622F32A1DE4111B00A0A315 /* sliderseek.png in Resources */,
+				CE3D61191DEEF35C0097DC19 /* SF-UI-Display-Thin.otf in Resources */,
+				CE3D61211DEEF35C0097DC19 /* SF-UI-Text-Medium.otf in Resources */,
+				CE3D61161DEEF35C0097DC19 /* SF-UI-Display-Medium.otf in Resources */,
 				0622F3B31DE6446C00A0A315 /* Item4.png in Resources */,
 				0622F2FD1DE4111B00A0A315 /* ImgBackround1.png in Resources */,
 				0622F31A1DE4111B00A0A315 /* more.png in Resources */,
@@ -857,24 +952,34 @@
 				0622F3211DE4111B00A0A315 /* 1.mp3 in Resources */,
 				0622F3901DE6359200A0A315 /* video.mp4 in Resources */,
 				0622F2FF1DE4111B00A0A315 /* ImgMorebutton.png in Resources */,
+				CE3D61121DEEF35C0097DC19 /* SF-UI-Display-Black.otf in Resources */,
 				0622F3041DE4111B00A0A315 /* ImgNewsTest.png in Resources */,
 				0400B41B1DECCAD000FD3819 /* ImgLogoutBtn.png in Resources */,
+				CE3D611A1DEEF35C0097DC19 /* SF-UI-Display-Ultralight.otf in Resources */,
 				0400B41D1DECCAD000FD3819 /* ImgSettings.png in Resources */,
+				CE3D611F1DEEF35C0097DC19 /* SF-UI-Text-Light.otf in Resources */,
 				844ACCED1DB762E600DC52EF /* Default-568h@2x.png in Resources */,
 				0622F36A1DE48D2B00A0A315 /* CheckXcodeVersion.sh in Resources */,
+				CE3D61251DEEF35C0097DC19 /* SF-UI-Text-Semibold.otf in Resources */,
+				CE3D61261DEEF35C0097DC19 /* SF-UI-Text-SemiboldItalic.otf in Resources */,
+				CE3D611C1DEEF35C0097DC19 /* SF-UI-Text-BoldItalic.otf in Resources */,
 				041195B71DEE2694008B6549 /* Mental Toughness.mp3 in Resources */,
 				0622F30A1DE4111B00A0A315 /* ImgPassword.png in Resources */,
 				0622F30D1DE4111B00A0A315 /* ImgIconAboutUs.png in Resources */,
+				CE3D61171DEEF35C0097DC19 /* SF-UI-Display-Regular.otf in Resources */,
 				0622F3061DE4111B00A0A315 /* ImgSplash.png in Resources */,
 				0622F3011DE4111B00A0A315 /* ImgTopic1.png in Resources */,
+				CE3D61201DEEF35C0097DC19 /* SF-UI-Text-LightItalic.otf in Resources */,
 				0622F30C1DE4111B00A0A315 /* ImgUser.png in Resources */,
 				0622F3241DE4111B00A0A315 /* playBtn.png in Resources */,
 				0622F3AD1DE6446C00A0A315 /* icon_share.png in Resources */,
 				0622F31B1DE4111B00A0A315 /* Imgbackbtn.png in Resources */,
+				CE3D61151DEEF35C0097DC19 /* SF-UI-Display-Light.otf in Resources */,
 				0622F30F1DE4111B00A0A315 /* ImgIconInvite.png in Resources */,
 				0622F3131DE4111B00A0A315 /* ImgIconNutrition.png in Resources */,
 				0622F31D1DE4111B00A0A315 /* ImgSearchBtn.png in Resources */,
 				0622F3261DE4111B00A0A315 /* searchBtn.png in Resources */,
+				CE3D61241DEEF35C0097DC19 /* SF-UI-Text-RegularItalic.otf in Resources */,
 				0622F3021DE4111B00A0A315 /* ImgExample.png in Resources */,
 				0400B4101DEB959B00FD3819 /* Default-667h@2x.png in Resources */,
 				041195B41DEE2694008B6549 /* Get in The zone.mp3 in Resources */,
@@ -882,6 +987,7 @@
 				0622F3161DE4111B00A0A315 /* ImgIconShop.png in Resources */,
 				0622F31C1DE4111B00A0A315 /* ImgNewtopic.png in Resources */,
 				0622F3081DE4111B00A0A315 /* ImgBackground.png in Resources */,
+				CE3D611D1DEEF35C0097DC19 /* SF-UI-Text-Heavy.otf in Resources */,
 				0622F31F1DE4111B00A0A315 /* forward.png in Resources */,
 				041195B01DEE2694008B6549 /* Believe in yourself.mp3 in Resources */,
 				0622F3141DE4111B00A0A315 /* ImgIconReminders.png in Resources */,
@@ -889,6 +995,7 @@
 				0622F2FA1DE4111B00A0A315 /* rect_green.9.png in Resources */,
 				0622F31E1DE4111B00A0A315 /* backaward.png in Resources */,
 				0622F3AF1DE6446C00A0A315 /* ImgBtnShop.png in Resources */,
+				CE3D61231DEEF35C0097DC19 /* SF-UI-Text-Regular.otf in Resources */,
 				0622F3AB1DE6446C00A0A315 /* icon_player.png in Resources */,
 				0622F3181DE4111B00A0A315 /* Imgnews.png in Resources */,
 				0622F3A91DE6446C00A0A315 /* food-prawn-asian-large.jpg in Resources */,
@@ -899,6 +1006,7 @@
 				041195B31DEE2694008B6549 /* Exercise in your sleep.mp3 in Resources */,
 				0622F3091DE4111B00A0A315 /* ImgLoginbutton.png in Resources */,
 				041195B11DEE2694008B6549 /* BestTennis Player.mp3 in Resources */,
+				CE3D611E1DEEF35C0097DC19 /* SF-UI-Text-HeavyItalic.otf in Resources */,
 				0622F3151DE4111B00A0A315 /* ImgIconSetting.png in Resources */,
 				0400B41A1DECCAD000FD3819 /* ImgLocation.png in Resources */,
 			);
@@ -968,9 +1076,11 @@
 				046A32781DE96E8800B86C77 /* SignUpViewController.swift in Sources */,
 				0622F33E1DE4111B00A0A315 /* TennisfeedViewController.swift in Sources */,
 				0622F3431DE4111B00A0A315 /* CoreDataManager.swift in Sources */,
+				CE3D612D1DEEF4410097DC19 /* SleepTableViewCell.swift in Sources */,
 				0423536A1DE6CB130059A330 /* CustomTextField.swift in Sources */,
 				0622F32E1DE4111B00A0A315 /* SWNinePatchImageFactory.m in Sources */,
 				0622F3461DE4111B00A0A315 /* NewsFeedTableViewCell.swift in Sources */,
+				CE3D612C1DEEF4410097DC19 /* ReminderViewController.swift in Sources */,
 				0622F33B1DE4111B00A0A315 /* NewsFeedViewController.swift in Sources */,
 				180FB7521DDF34BD007D60D3 /* google_news.xcdatamodeld in Sources */,
 				0622F33F1DE4111B00A0A315 /* ViewController.swift in Sources */,
@@ -987,6 +1097,8 @@
 				0622F3311DE4111B00A0A315 /* ENSideMenu.swift in Sources */,
 				0622F32F1DE4111B00A0A315 /* SWNinePatchImageView.m in Sources */,
 				0622F3381DE4111B00A0A315 /* HomepageViewController.swift in Sources */,
+				CE3D612E1DEEF4410097DC19 /* SleepViewController.swift in Sources */,
+				CE3D612B1DEEF4410097DC19 /* ReminderTableViewCell.swift in Sources */,
 				046A327A1DE9BBAE00B86C77 /* InitialViewController.swift in Sources */,
 				0622F3941DE635DC00A0A315 /* ShopCollectionViewCell.swift in Sources */,
 				0622F3391DE4111B00A0A315 /* LoginViewController.swift in Sources */,

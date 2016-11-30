@@ -2,6 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+    <key>UIAppFonts</key>
+    <array>
+        <string>SF-UI-Display-Black.otf</string>
+        <string>SF-UI-Display-Bold.otf</string>
+        <string>SF-UI-Display-Heavy.otf</string>
+        <string>SF-UI-Display-Light.otf</string>
+        <string>SF-UI-Display-Medium.otf</string>
+        <string>SF-UI-Display-Regular.otf</string>
+        <string>SF-UI-Display-Semibold.otf</string>
+        <string>SF-UI-Display-Thin.otf</string>
+        <string>SF-UI-Display-Ultralight.otf</string>
+    </array>
 	<key>APIKey</key>
 	<string>eyJhbGciOiJSU0EtU0hBMjU2IiwidmVyIjoiMSJ9.eyJ2ZXIiOiIzIiwiZW5kcG9pbnRzIjp7ImF1dGh6IjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9hcC9vYSIsInRva2VuRXhjaGFuZ2UiOiJodHRwczovL2FwaS5hbWF6b24uY29tL2F1dGgvbzIvdG9rZW4ifSwiY2xpZW50SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi1vYTItY2xpZW50LjdlMDVhMGE3YzkzNzQ5NzBhZTY0ZjIzMTk5MDhmNTAxIiwiYXBwRmFtaWx5SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi40YmQxYWI2ZjVhMTE0MjRiOTYyMGRlOTJhZjYyYjNmMCIsImJ1bmRsZVNlZWRJZCI6IlBhdmVsVGVubmlzLlRlbm5pc1JTU0ZlZWRBcHAiLCJidW5kbGVJZCI6IlBhdmVsVGVubmlzLlRlbm5pc1JTU0ZlZWRBcHAiLCJpc3MiOiJBbWF6b24iLCJ0eXBlIjoiQVBJS2V5IiwiYXBwVmFyaWFudElkIjoiYW16bjEuYXBwbGljYXRpb24tY2xpZW50LmJiMjg0ZTlkNDZhNzRhOWU5YTdjYWIyYzE2NTlmM2I1IiwidHJ1c3RQb29sIjpudWxsLCJhcHBJZCI6ImFtem4xLmFwcGxpY2F0aW9uLWNsaWVudC5iYjI4NGU5ZDQ2YTc0YTllOWE3Y2FiMmMxNjU5ZjNiNSIsImlkIjoiY2E0ZmZkNDItYjBjZS0xMWU2LTg0OWEtZjVjNWY1NmY4NGVjIiwiaWF0IjoiMTQ3OTgzMTI4ODU2OCJ9.KcTixscpwmC4xG4QuecUzV2HIx/UKbfOMuBe70YPp11fySe6sFK6U4Hl/Yw97Yy0dLKc4eakjwPUXuuhv9H2FFbZk3Hue3pq4R2pU1vTaKiHS+sSBciB0DRuKXSZHIgsxntf9nAJ/jSf/mHoV9T8z+yMrL2OSeIsIISp7N/gyxad1eLKWeDFR2MirOqJBe3pPC1pK8b92jSlIKan43rjkNMlSGtGjHXYvVLq0VU8KhLav7DvvkbF/2TQqMiZPdvSga0rXaAj+PDMUbmRST4rws5ui92jFm/pVikanVI3L4MgZMfZD/KLjFlRNbtOt5Shv2Kk3RgGapDla4OQAF/aEw==</string>
 	<key>AWS</key>
